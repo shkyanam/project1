@@ -1,1 +1,3 @@
 updating datascience file
+Week1: Basics
+Week2: Statistics
