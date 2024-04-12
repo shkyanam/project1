@@ -1,3 +1,4 @@
 updating datascience file
 Week1: Basics
 Week2: StatisticsWeek3 excel reporting
+Week4 Regression analytics
